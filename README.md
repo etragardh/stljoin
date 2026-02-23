@@ -6,17 +6,13 @@
 
 Free for personal and non-commercial use.
 
-### Commercial Use (Up to 100 Employees)
+### Commercial Use 
 
-Purchase a commercial license here:
+Organizations must contact:
 
-unknown flag: --line-items
-
-Organizations with more than 100 employees must contact:
-
-emil@tstck.io
+bew@etragardh.com
 
 The receipt will state:
-"Commercial License — stljoin (≤100 employees)"
+"Commercial License — stljoin"
 
 See LICENSE for full terms.
